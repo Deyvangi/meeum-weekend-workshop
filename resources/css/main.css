@@ -155,7 +155,7 @@ footer{
 
 }
 
-.footer-notices{
+.footer-notices .layout-wide{
     margin-bottom: 0%;
     color: var(--alternative-text-color);
     text-align: center;
@@ -169,7 +169,7 @@ display: block;
 
 }
 
-input[type="text"]
+input[type="text"],
 input[type="email"] {
       border: 1px solid var(--border-color);
       padding: 10px;
